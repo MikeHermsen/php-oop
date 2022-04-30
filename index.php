@@ -1,7 +1,9 @@
 <?php
-require_once 'Product.php';
-require_once 'CD.php';
-require_once 'DVD.php';
+function my_autoloader($class) {
+    include $class.".php";
+}
+
+spl_autoload_register('my_autoloader');
 
 
 function make_model(string $file_name) 

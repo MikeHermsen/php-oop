@@ -1,0 +1,62 @@
+# timestamp | duration | file | instruction | dir | modtime | etag | size | fileId | status | errorString | http result code | other size | other modtime | X-Request-ID
+#=#=#=# Syncrun started 2022-04-30T20:35:11Z
+#=#=#=#=# Propagation starts 2022-04-30T20:35:11Z (last step: 75 msec, total: 75 msec)
+20:35:11||DVD.csv|INST_NEW|Up|1649960409|3f55ac46cfecf2fdcf1922c0f04482aa|398|00272439ocehgru3komi|4||201|0|0|d93ea8a2-dd39-4ee2-9050-8a910671ab02|
+20:35:11||CD.csv|INST_NEW|Up|1649960410|f6978ddb0ab655db59326c44ca178acc|451|00272438ocehgru3komi|4||201|0|0|d8a6ff0b-007c-4ee1-9f10-1657d29165df|
+20:35:11||DVD.php|INST_NEW|Up|1651350043|f387c28f895a530891179dfeec35e2c5|1052|00272437ocehgru3komi|4||201|0|0|16b260b7-4891-41e8-9209-010032a90b26|
+20:35:11||Product.php|INST_NEW|Up|1651350055|fd5279928cb0e6771ae9474f5dbd75f8|2046|00272440ocehgru3komi|4||201|0|0|e6700fb8-9bb6-4cbd-a135-73312494877c|
+20:35:11||CD.php|INST_NEW|Up|1649078033|8c64711f85853111b7ba3b0b58d65efc|881|00272436ocehgru3komi|4||201|0|0|b3b6a254-b8e2-4d0c-8312-bb5b45fb7b04|
+20:35:11||Product.csv|INST_NEW|Up|1649960408|796f5269b5927cfcf001580b34883ca7|260|00272441ocehgru3komi|4||201|0|0|1c38ddda-a83d-454c-87e6-ed11e8f7c739|
+20:35:13||README.pdf|INST_NEW|Up|1651350730|30f31b5581069983c0fb84cc3892130e|892092|00272443ocehgru3komi|4||201|0|0|ac82f70b-f228-4e3b-9fc0-3b087d1b8cf1|
+20:35:13||README.docx|INST_NEW|Up|1651350867|cb00fbc9f269e0151625d31e340c5ffa|1429448|00272444ocehgru3komi|4||201|0|0|04709fd8-658e-437c-ad89-cce0f00eb07b|
+20:35:13||index.php|INST_NEW|Up|1651349289|25982526c96f708e2efc66261f5d6b3d|2709|00272442ocehgru3komi|4||201|0|0|6d628880-bae4-4e91-a680-ed49fcd2c7c2|
+#=#=#=# Syncrun finished 2022-04-30T20:35:14Z (last step: 2707 msec, total: 2783 msec)
+#=#=#=# Syncrun started 2022-04-30T20:36:05Z
+#=#=#=#=# Propagation starts 2022-04-30T20:36:05Z (last step: 90 msec, total: 90 msec)
+#=#=#=# Syncrun finished 2022-04-30T20:36:05Z (last step: 10 msec, total: 101 msec)
+#=#=#=# Syncrun started 2022-04-30T22:36:10Z
+#=#=#=#=# Propagation starts 2022-04-30T22:36:10Z (last step: 92 msec, total: 92 msec)
+#=#=#=# Syncrun finished 2022-04-30T22:36:10Z (last step: 7 msec, total: 100 msec)
+#=#=#=# Syncrun started 2022-04-30T23:38:33Z
+#=#=#=#=# Propagation starts 2022-04-30T23:38:33Z (last step: 86 msec, total: 86 msec)
+23:38:33||index.php|INST_SYNC|Up|1651361911|cb0727b43d12ff5952b79288f1b71e54|2770|00272442ocehgru3komi|4||204|2709|1651349289|cc837c59-9a28-4407-89a0-7da96a042376|
+#=#=#=# Syncrun finished 2022-04-30T23:38:35Z (last step: 1776 msec, total: 1863 msec)
+#=#=#=# Syncrun started 2022-04-30T23:38:37Z
+#=#=#=#=# Propagation starts 2022-04-30T23:38:37Z (last step: 59 msec, total: 59 msec)
+||index.php|INST_SYNC|Up|1651361917|cb0727b43d12ff5952b79288f1b71e54|2772|00272442ocehgru3komi|3|Local file changed during sync.|0|2770|1651361911||
+#=#=#=# Syncrun finished 2022-04-30T23:38:37Z (last step: 4 msec, total: 64 msec)
+#=#=#=# Syncrun started 2022-04-30T23:38:38Z
+#=#=#=#=# Propagation starts 2022-04-30T23:38:38Z (last step: 57 msec, total: 57 msec)
+||index.php|INST_SYNC|Up|1651361917|cb0727b43d12ff5952b79288f1b71e54|2772|00272442ocehgru3komi|3|Local file changed during sync.|0|2770|1651361911||
+#=#=#=# Syncrun finished 2022-04-30T23:38:38Z (last step: 5 msec, total: 62 msec)
+#=#=#=# Syncrun started 2022-04-30T23:38:40Z
+#=#=#=#=# Propagation starts 2022-04-30T23:38:40Z (last step: 56 msec, total: 56 msec)
+23:38:40||index.php|INST_SYNC|Up|1651361917|7fc85087c284ed980799a6e325dd15a2|2772|00272442ocehgru3komi|4||204|2770|1651361911|b50fa30f-4302-4bef-88e8-4a317de0e2bb|
+#=#=#=# Syncrun finished 2022-04-30T23:38:42Z (last step: 1325 msec, total: 1381 msec)
+#=#=#=# Syncrun started 2022-04-30T23:39:16Z
+#=#=#=#=# Propagation starts 2022-04-30T23:39:16Z (last step: 103 msec, total: 103 msec)
+23:39:16||index.php|INST_SYNC|Up|1651361954|afa70debc6ebcc7958c3f1ad194721a5|2812|00272442ocehgru3komi|4||204|2772|1651361917|c9557586-5d86-4eaf-bd39-c0298fba07cf|
+#=#=#=# Syncrun finished 2022-04-30T23:39:17Z (last step: 1141 msec, total: 1244 msec)
+#=#=#=# Syncrun started 2022-04-30T23:39:19Z
+#=#=#=#=# Propagation starts 2022-04-30T23:39:19Z (last step: 61 msec, total: 61 msec)
+23:39:19||index.php|INST_SYNC|Up|1651361956|5eb1143b13868a48bd9eb458ae0f6f6f|2813|00272442ocehgru3komi|4||204|2812|1651361954|57e9d32e-01a2-45f2-a427-5a816421ab3e|
+#=#=#=# Syncrun finished 2022-04-30T23:39:20Z (last step: 907 msec, total: 969 msec)
+#=#=#=# Syncrun started 2022-04-30T23:39:49Z
+#=#=#=#=# Propagation starts 2022-04-30T23:39:49Z (last step: 100 msec, total: 100 msec)
+23:39:50||index.php|INST_SYNC|Up|1651361987|6d25fa4d12f2ab62bcad19e619524bf4|2737|00272442ocehgru3komi|4||204|2813|1651361956|17607296-d831-47f6-bccd-ee72134063c3|
+#=#=#=# Syncrun finished 2022-04-30T23:39:50Z (last step: 907 msec, total: 1008 msec)
+#=#=#=# Syncrun started 2022-04-30T23:39:56Z
+#=#=#=#=# Propagation starts 2022-04-30T23:39:56Z (last step: 73 msec, total: 73 msec)
+23:39:56||index.php|INST_SYNC|Up|1651361994|06e480075617b750a3fcdbe21f86e9a2|2697|00272442ocehgru3komi|4||204|2737|1651361987|7f8de140-8f8d-4fe4-aa5d-858d0293f264|
+#=#=#=# Syncrun finished 2022-04-30T23:39:57Z (last step: 1121 msec, total: 1195 msec)
+#=#=#=# Syncrun started 2022-04-30T23:39:59Z
+#=#=#=#=# Propagation starts 2022-04-30T23:39:59Z (last step: 64 msec, total: 64 msec)
+||index.php|INST_SYNC|Up|1651361998|06e480075617b750a3fcdbe21f86e9a2|2737|00272442ocehgru3komi|3|Local file changed during sync.|0|2697|1651361994||
+#=#=#=# Syncrun finished 2022-04-30T23:39:59Z (last step: 5 msec, total: 69 msec)
+#=#=#=# Syncrun started 2022-04-30T23:40:00Z
+#=#=#=#=# Propagation starts 2022-04-30T23:40:00Z (last step: 55 msec, total: 55 msec)
+23:40:00||index.php|INST_SYNC|Up|1651361998|0cefd91fe3052d2fd5d18e80d0fdf837|2737|00272442ocehgru3komi|4||204|2697|1651361994|fbef76b5-c25e-478e-89f6-c86242f69134|
+#=#=#=# Syncrun finished 2022-04-30T23:40:01Z (last step: 887 msec, total: 943 msec)
+#=#=#=# Syncrun started 2022-04-30T23:40:35Z
+#=#=#=#=# Propagation starts 2022-04-30T23:40:35Z (last step: 111 msec, total: 111 msec)
+#=#=#=# Syncrun finished 2022-04-30T23:40:35Z (last step: 4 msec, total: 116 msec)
